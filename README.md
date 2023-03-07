@@ -1,5 +1,5 @@
 # Life-Expectancy-analysis
-![](life expectancy analysis)
+![](J.B sales analysis(1)
 ## Introduction
 This is a powerBi project on sales analysis of an imaginary store called “J.B Store”
 The project is to analyze and derive insights to answer crucial and vital questions with the sole aim of helping the Store take a data driven decisions on production, sales as well as analyzing Market forces.
